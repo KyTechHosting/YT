@@ -1,0 +1,2 @@
+:: Install available Chocolaty updates.
+@powershell cup all -y
